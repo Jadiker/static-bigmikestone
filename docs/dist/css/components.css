@@ -1,0 +1,77 @@
+.title {
+    margin-bottom: 0em;
+}
+
+.details {
+    font-size: 20;
+    white-space: pre-wrap;
+    overflow-wrap: break-word;
+}
+
+.mobile-details {
+    padding-left: 20px;
+}
+
+.username, .date, .gray {
+    color: #6b6b6b;
+}
+
+.nav-item {
+    margin-right: 1em;
+}
+
+.navbar-brand {
+  transform: translateX(-50%);
+  left: 50%;
+  position: absolute;
+}
+
+.nowrap {
+    white-space: nowrap;
+}
+
+.mobile-title-size {
+    font-size: 7vw;
+}
+
+.mobile-clickable-size {
+    font-size: 5vw;
+}
+
+.mobile-medium-size {
+    font-size: 4vw;
+}
+
+.mobile-small-size {
+    font-size: 3vw;
+}
+
+.mobile-button-width {
+    width: 20vw;
+}
+
+.mobile-button-text-size {
+    font-size: 4vw;
+}
+
+.desktop-button-width {
+    width: 100px;
+}
+
+.desktop-button-text-size {
+    font-size: 1em;
+}
+
+.mobile-navbar-toggler {
+    width: 15vw;
+    height: 10vw;
+}
+
+/* from https://stackoverflow.com/a/46804470/5049813 */
+.mobile-navbar-toggler-icon {
+  padding: 30px !important;
+}
+
+.crimson {
+    color: #A51C30;
+}
